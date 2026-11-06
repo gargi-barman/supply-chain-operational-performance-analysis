@@ -1,4 +1,4 @@
-# Supply Chain & Delivery Performance Analysis using Power BI
+# Supply Chain & Operational Performance Analysis using Power BI
 
 ## Project Overview
 
