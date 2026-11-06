@@ -12,7 +12,7 @@ An interactive Power BI dashboard analysing order trends, delivery performance, 
 
 ## Data Preparation
 
-- Imported and cleaned six datasets: logistics_orders, logistics_order_items, logistics_reviews, logistics_carriers, logistics_sellers, logistics_customers
+- Imported and cleaned six datasets: logistics_orders, logistics_order_items, logistics_reviews, logistics_carriers, logistics_sellers, logistics_customers.
 - Checked duplicates, missing values and data types.
 - Created a binary "valid_delivery_flag" (1 = valid, 0 = invalid) in Power Query to identify reliable delivery records. Valid records required a delivered status, non-missing dispatch and delivery dates, and a delivery date on or after the dispatch date. This helped ensure that OTD calculations used only valid delivery records.
 - Established relationships between orders, order items, reviews, carriers, sellers, customers.
@@ -54,8 +54,8 @@ Created DAX measures to calculate dashboard KPIs and additional metrics, includi
 
 ## Project Files
 
-- "Power BI Dashboard (.pbix)" (Supply%20Chain%20%26%20Delivery%20Performance%20Dashboard.pbix)
-- "Dashboard PDF (.pdf)" (Supply%20Chain%20%26%20Delivery%20Performance%20Dashboard.pdf)
+- [Power BI Dashboard (.pbix)](./Supply%20Chain%20%26%20Delivery%20Performance%20Dashboard.pbix)
+- [Dashboard PDF (.pdf)](./Supply%20Chain%20%26%20Delivery%20Performance%20Dashboard.pdf)
 
 ## Dataset & Limitations
 
