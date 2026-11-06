@@ -46,11 +46,11 @@ Created DAX measures to calculate dashboard KPIs and additional metrics, includi
 - On-time delivery performance by service type.
 - Review rating distribution.
 
-## Key Insights
+Key Insights
 
 1. Order Volume & Delivery Performance: Order volume increased by approximately 29% from November to December 2023 (1,546 to 1,995), while OTD declined from 71.8% to 58.7%. OTD recovered to 85.5% in January 2024.
-2. Service Type Performance: National Road Courier (Economy) recorded the lowest overall OTD at 56.0% among the five service types, significantly below the other four (83.2%–88.6%).
-3. Carrier Performance: Tembo Freight recorded 56.0% OTD, substantially below the 83.2%–88.6% range recorded by the other four carriers.
+
+2. Carrier & Service Type Performance: Tembo Freight exclusively handled National Road Courier (Economy) shipments in the dataset, accounting for 5,211 valid deliveries with an OTD of 56.0%—substantially below the 83.2%–88.6% range recorded by the other carriers and service types.
 
 ## Project Files
 
